@@ -1,13 +1,13 @@
 !-----------------------------------------------------------------------
-! "LMM Library" is a Fortran library, which may be useful for a generic 
-! stochastic Lagrangian Micro-Mixing (LMM) numerical model for 
+! "LMM Library v.1.0" is a Fortran library, which may be useful for a  
+! generic stochastic Lagrangian Micro-Mixing (LMM) numerical model for 
 ! pollutant/scalar dispersion. 
-! LMM Library Copyright 2008-2015 Andrea Amicarelli
+! LMM Library v.1.0 Copyright 2008-2015 Andrea Amicarelli
 ! email contact: Andrea.Amicarelli@gmail.com
 !-----------------------------------------------------------------------
-! This file is part of LMM Library. 
-! LMM_library is free software: you can redistribute it and/or modify
-! it under the terms of the GNU Lesser General Public License as 
+! This file is part of LMM Library v.1.0. 
+! LMM Library v.1.0 is free software: you can redistribute it and/or 
+! modify it under the terms of the GNU Lesser General Public License as 
 ! published by the Free Software Foundation, either version 3 of the 
 ! License, or (at your option) any later version.
 ! This library is distributed in the hope that it will be useful,
